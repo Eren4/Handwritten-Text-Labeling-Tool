@@ -1,4 +1,4 @@
-# Handwritten-Text-Labeling-Tool
+# Handwritten Text Labeling Tool
 This was my Capstone Project in University. The program is used to label the handwritten pngs in line and word level into the text files.  
 
 Python needs to be installed to run the program  

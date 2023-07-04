@@ -1,0 +1,7 @@
+# EXPLANATION
+# ex: lines/N10-027-232/N10-027-232-04.png diye|bir|tayfaya|verirler,|gemi|vardığı|yerde|mektubu|okumak|isteyen|kişi|aynı
+# lines/N10-027-232/N10-027-232-04.png -> path of the line.
+# the number at the end indicates the line number. This means the fourth line.
+# the lines are saved in the lines folder
+# diye|bir|tayfaya|verirler,|gemi|vardığı|yerde|mektubu|okumak|isteyen|kişi|aynı -> label of the line
+# the words are separated with the pipe (|) sign

@@ -1,0 +1,7 @@
+# EXPLANATION
+# ex: words/N01-014-007/N01-014-007-05-05.png dikdörtgen
+# words/ -> the words folder
+# N01-014-007 -> form id
+# N01-014-007-05-05.png -> word png
+# dikdörtgen-> label of the word
+# corresponding labels are on the last column
